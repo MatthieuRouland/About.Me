@@ -14,7 +14,7 @@ author: M. Rouland & D. Attali
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About myself"
+  About Myself: "About me"
   CV and Motivations:
     - My CV produced with Latex: "https://matthieurouland.github.io/About.Me/CV"
     - Motivations: "https://matthieurouland.github.io/About.Me/Motivation"
