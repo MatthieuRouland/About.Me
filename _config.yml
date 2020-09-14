@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Matthieu Rouland - Who I am / What I have done / What I'm doing /  What I will do.
+title: Who I am / What I have done / What I'm doing /  What I will do.
 
 # Your name to show in the footer
-author: M. Rouland.
+author: M. Rouland & B. Jekyll
 
 # --- List of links in the navigation bar --- #
 
@@ -76,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://www.linkedin.com/in/matthieu-rouland/"
+url-pretty: "https://linkedin.com/in/matthieu-rouland/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
