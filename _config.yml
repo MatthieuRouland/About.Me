@@ -14,7 +14,7 @@ author: M. Rouland.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About myself"
   Resources:
     - Beautiful Jekyll: "https://Matthieu-Rouland.github.io"
     - Learn markdown: "https://Matthieu-Rouland.github.io"
@@ -40,9 +40,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "matthieu.rouland@gmail.com"
-  facebook: deanattali
+#  facebook: deanattali
   github: MatthieuRouland
-  twitter: daattali
+#  twitter: daattali
 #  reddit: yourname
   linkedin: matthieu-rouland
 #  xing: yourname
@@ -69,14 +69,14 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: FALSE
+  facebook: FALSE
   linkedin: true
-  vk: false
+  vk: FALSE
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "matthieu-rouland.github.io"
+url-pretty: "https://www.linkedin.com/in/matthieu-rouland/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
