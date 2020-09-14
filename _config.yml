@@ -15,10 +15,10 @@ author: M. Rouland.
 
 navbar-links:
   About Me: "About myself"
-  Resources:
-    - Beautiful Jekyll: "https://Matthieu-Rouland.github.io"
-    - Learn markdown: "https://Matthieu-Rouland.github.io"
-  Author's home: "https://Matthieu-Rouland.github.io"
+  CV and Motivations:
+    - My CV produced with Latex: "https://matthieurouland.github.io/About.Me/CV"
+    - Motivations: "https://matthieurouland.github.io/About.Me/Motivation"
+  Author's home: "https://github.com/MatthieuRouland"
 
 # --- Logo --- #
 
