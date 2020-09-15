@@ -14,7 +14,7 @@ author: M. Rouland & D. Attali
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Myself: "About me"
+  About Myself: "Aboutme"
   CV and Motivations:
     - My CV produced with Latex: "https://matthieurouland.github.io/About.Me/CV"
     - Motivations: "https://matthieurouland.github.io/About.Me/Motivation"
@@ -103,7 +103,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#5D5C61"
 footer-text-col: "#FFFAFA"
-footer-link-col: "#404040"
+footer-link-col: "#FFFDFA"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
