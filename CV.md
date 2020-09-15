@@ -1,0 +1,5 @@
+<object data="https://github.com/MatthieuRouland/About.Me/blob/master/assets/img/CV_Matthieu_Rouland.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/MatthieuRouland/About.Me/blob/master/assets/img/CV_Matthieu_Rouland.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/MatthieuRouland/About.Me/blob/master/assets/img/CV_Matthieu_Rouland.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
