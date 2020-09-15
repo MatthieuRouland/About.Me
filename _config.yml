@@ -79,7 +79,7 @@ share-links-active:
 url-pretty: "https://linkedin.com/in/matthieu-rouland/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 80
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -101,8 +101,8 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#5D5C61"
+footer-text-col: "#FFFAFA"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
