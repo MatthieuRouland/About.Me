@@ -15,10 +15,9 @@ author: M. Rouland & D. Attali
 
 navbar-links:
   About Myself: "Aboutme"
-  CV and Motivations:
-    - My CV produced with Latex: "https://matthieurouland.github.io/About.Me/CV"
-    - Motivations: "https://matthieurouland.github.io/About.Me/Motivation"
-  Author's home: "https://github.com/MatthieuRouland"
+  My CV: "CV"
+  My Motivations: "Motivation"
+  My LinkedIn: "https://linkedin.com/in/matthieu-rouland/"
 
 # --- Logo --- #
 
