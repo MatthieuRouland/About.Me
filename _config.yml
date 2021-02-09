@@ -14,9 +14,9 @@ author: M. Rouland & D. Attali
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Myself: "Aboutme"
+  About Myself: "aboutme"
   My CV: "CV"
-  My Motivations: "Motivation"
+  My Motivations: "motivation"
   My LinkedIn: "https://linkedin.com/in/matthieu-rouland/"
 
 # --- Logo --- #
