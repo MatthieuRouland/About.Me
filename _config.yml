@@ -41,7 +41,7 @@ social-network-links:
   email: "matthieu.rouland@gmail.com"
 #  facebook: deanattali
   github: MatthieuRouland
-  twitter: matthieu.rouland
+  twitter: matthieurouland
 #  reddit: yourname
   linkedin: matthieu-rouland
 #  xing: yourname
@@ -57,7 +57,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-8019-7629
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
